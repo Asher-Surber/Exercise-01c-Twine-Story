@@ -28,7 +28,7 @@ None
 
 ## Future Development
 
-None
+More story content, possible extra features. To be completed by the end of 2/6/21.
 
 ## Created by
 
